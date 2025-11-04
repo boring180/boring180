@@ -11,4 +11,4 @@
   <img alt="Snake animation" src="https://raw.githubusercontent.com/boring180/boring180/output/github-contribution-grid-snake-light.svg">
 </picture>
 
-Also check out my [homepage](https://boring180.github.io/)
+Also check out my [homepage](https://boring180-github-io.vercel.app/)
